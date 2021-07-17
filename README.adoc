@@ -1,3 +1,9 @@
 = Hello World 👋
 
-It's `dev[id=wolf]`
+[source, sass]
+----
+// It's
+dev[id='wolf']
+  &::after
+     content: '🐺'
+----
