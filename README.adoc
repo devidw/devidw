@@ -4,6 +4,8 @@
 ----
 // It's
 dev[id='wolf']
+  &::before
+     content: 'david'
   &::after
      content: '🐺'
 ----
