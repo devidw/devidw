@@ -3,7 +3,7 @@
 [source, sass]
 ----
 // It's
-dev[id='wolf']
+dev[id=wolf]
   &::before
      content: 'david'
   &::after
