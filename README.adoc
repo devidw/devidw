@@ -1,11 +1,11 @@
 +++
-<p align=center>
+<h3 align=center>
   <i>
     <code>
       d e v [ i d = w o l f ]
    </code>
   </i>
-</p>
+</h3>
 <p align=center>
     . <br>
     . <br>
