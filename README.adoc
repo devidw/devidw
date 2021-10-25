@@ -1,11 +1,24 @@
-= Hello Universe 👋
++++
+<p align=center>
+  <i>
+    <code>
+      d e v [ i d = w o l f ]
+   </code>
+  </i>
+</p>
+<p align=center>
+    . <br>
+    . <br>
+    .
+</p>
+<p align=center>
+  <i>
+    d a v i d <br>
+    w o l f
+  </i>
+</p>
+<p align=center>
+  🐺
+</p>
++++
 
-[source, sass]
-----
-// It's
-dev[id=wolf]
-  &::before
-     content: 'david'
-  &::after
-     content: '🐺'
-----
