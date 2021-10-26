@@ -12,6 +12,12 @@
     .
 </p>
 <p align=center>
+ <img src=signature.svg alt=Signature width=25%>
+</p>
+<p align=center>
+    .
+</p>
+<p align=center>
   <i>
     d a v i d <br>
     w o l f
@@ -21,4 +27,3 @@
   🐺
 </p>
 +++
-
