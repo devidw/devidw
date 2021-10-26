@@ -1,4 +1,5 @@
 +++
+<!--
 <h3 align=center>
   <i>
     <code>
@@ -11,13 +12,16 @@
     . <br>
     .
 </p>
+-->
 <p align=center>
- <img src=signature.svg alt=Signature width=25%>
+ <img src=signature.svg alt=Signature width=34%>
 </p>
 <p align=center>
     . <br>
+    . <br>
     .
 </p>
+<br>
 <p align=center>
   <i>
     d a v i d <br>
