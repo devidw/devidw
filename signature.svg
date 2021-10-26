@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 738 348" width="738" height="348">
-  <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" href="https://github.githubassets.com/assets/site.css" type="text/css"/>
+  <!-- <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" href="https://github.githubassets.com/assets/site.css" type="text/css"/> -->
 
   <style xmlns="http://www.w3.org/2000/svg">
     circle,
     path {
-      stroke: var(--color-fg-default, #f00);
-      fill: var(--color-fg-default, #f00);
+      stroke: var(--color-fg-default, #777);
+      fill: var(--color-fg-default, #777);
     }
   </style>
 
