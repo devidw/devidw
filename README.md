@@ -1,24 +1,8 @@
-<!--
-<h3 align=center>
-  <i>
-    <code>
-      d e v [ i d = w o l f ]
-   </code>
-  </i>
-</h3>
-<p align=center>
-    . <br>
-    . <br>
-    .
-</p>
-<p align=center>
- <img src=signature.svg alt=Signature width=34%>
-</p>
--->
+Hey you 👋
 
-# `dev[id=w]`
+`dev[id=w]` here
 
-My latest blog postings:
+## Recent articles on my blog
 
 <!-- HASHNODE_BLOG:START -->
 <table><tr><td><a href="https://devid.hashnode.dev/introduction-into-foreign-keys-in-relational-databases-ckw1dn6o004ugs1s1fspx8xl0" title="Introduction into foreign keys in relational databases"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1636894229076/SE5VpYPju.png" alt="Introduction into foreign keys in relational databases"   /></a>
@@ -42,15 +26,17 @@ Then read on, we will cover a...</td></tr></table>
 <p align=center>
     . <br>
     . <br>
-    .
+    . <br>
+   <img src=signature.svg alt=Signature width=34%>
 </p>
-<br>
+<!--
 <p align=center>
   <i>
     d a v i d <br>
     w o l f
   </i>
 </p>
+-->
 <p align=center>
   🐺
 </p>
