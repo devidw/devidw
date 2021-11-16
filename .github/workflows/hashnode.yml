@@ -1,23 +1,27 @@
-name: Hashnode Blog
-uses: varunsridharan/action-hashnode-blog@1.1.1
+name: "Hashnode Blog Demo"
+
+env:
+  hashnode_username: 'devid'
+  count: 6
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 0 * * *' # Runs Every Day
+
 
 jobs:
-  update_blogs:
-    name: "Update Blogs"
+  update_demo:
+    name: "Update Latest Blogs"
     runs-on: ubuntu-latest
     steps:
       - name: "📥  Fetching Repository Contents"
         uses: actions/checkout@main
 
-      - name: "📚  Hashnode Updater"
-        uses: "varunsridharan/action-hashnode-blog@main"
+      - name: "📥  blog"
+        uses: "varunsridharan/action-hashnode-blog@1.1.1"
         with:
-          USERNAME: 'devid' # Hashnode Username
-          COUNT: 10 # MAX Visisble
+          USERNAME: ${{ env.hashnode_username }}
+          COUNT: ${{ env.count }}
+          FILE: "README.adoc"
+          STYLE: "blog"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
