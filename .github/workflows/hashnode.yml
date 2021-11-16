@@ -1,4 +1,4 @@
-name: "Hashnode Blog Demo"
+name: "Hashnode Blog"
 
 env:
   hashnode_username: 'devid'
@@ -22,6 +22,6 @@ jobs:
           USERNAME: ${{ env.hashnode_username }}
           COUNT: ${{ env.count }}
           FILE: "README.adoc"
-          STYLE: "blog"
+          STYLE: "blog-grid-4"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
