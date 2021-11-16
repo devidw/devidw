@@ -37,5 +37,23 @@
 
 +++
 <!-- HASHNODE_BLOG:START -->
+<h3><a href="https://devid.hashnode.dev/introduction-into-foreign-keys-in-relational-databases-ckw1dn6o004ugs1s1fspx8xl0" title="Introduction into foreign keys in relational databases">Introduction into foreign keys in relational databases</a></h3>
+<a href="https://devid.hashnode.dev/introduction-into-foreign-keys-in-relational-databases-ckw1dn6o004ugs1s1fspx8xl0" title="Introduction into foreign keys in relational databases"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1636894229076/SE5VpYPju.png" alt="Introduction into foreign keys in relational databases" width="400px" align="" /></a>
+<p>Let's take your journey on database development one step further and learn about another important type of key: foreign keys.
+To get the idea behind foreign keys, let's imagine the practical usage of databases in an online shop application.
+In an onl...</p>
+<h3><a href="https://devid.hashnode.dev/introduction-into-primary-keys-in-relational-databases-ckw080p5p0fj2z2s1hjqg11ti" title="Introduction into primary keys in relational databases">Introduction into primary keys in relational databases</a></h3>
+<a href="https://devid.hashnode.dev/introduction-into-primary-keys-in-relational-databases-ckw080p5p0fj2z2s1hjqg11ti" title="Introduction into primary keys in relational databases"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1636891848910/ntfF-xYcv.png" alt="Introduction into primary keys in relational databases" width="400px" align="" /></a>
+<p>You just learned about the core concept of relational databases and how they are built up in databases, tables, rows, and columns? And now you want to take it further — good decision. In this article, we will speak about an important concept in the d...</p>
+<h3><a href="https://devid.hashnode.dev/introduction-into-relational-databases-ckvz6p9hs09ww29s1f3gmf7mx" title="Introduction into relational databases">Introduction into relational databases</a></h3>
+<a href="https://devid.hashnode.dev/introduction-into-relational-databases-ckvz6p9hs09ww29s1f3gmf7mx" title="Introduction into relational databases"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1636882137203/82M2Zb1A7.png" alt="Introduction into relational databases" width="400px" align="" /></a>
+<p>You probably already heard about databases at some point. 
+You want to face it and learn a little more about 
+
+what databases actually are,
+how they are built up,
+and which components together form a complete database? 
+
+Then read on, we will cover a...</p>
 <!-- HASHNODE_BLOG:END -->
 +++
