@@ -1,4 +1,3 @@
-+++
 <!--
 <h3 align=center>
   <i>
@@ -12,30 +11,15 @@
     . <br>
     .
 </p>
--->
-<!--
 <p align=center>
  <img src=signature.svg alt=Signature width=34%>
 </p>
-<p align=center>
-    . <br>
-    . <br>
-    .
-</p>
-<br>
-<p align=center>
-  <i>
-    d a v i d <br>
-    w o l f
-  </i>
-</p>
-<p align=center>
-  🐺
-</p>
 -->
-+++
 
-+++
+# `dev[id=w]`
+
+## My latest blog postings
+
 <!-- HASHNODE_BLOG:START -->
 <h3><a href="https://devid.hashnode.dev/introduction-into-foreign-keys-in-relational-databases-ckw1dn6o004ugs1s1fspx8xl0" title="Introduction into foreign keys in relational databases">Introduction into foreign keys in relational databases</a></h3>
 <a href="https://devid.hashnode.dev/introduction-into-foreign-keys-in-relational-databases-ckw1dn6o004ugs1s1fspx8xl0" title="Introduction into foreign keys in relational databases"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1636894229076/SE5VpYPju.png" alt="Introduction into foreign keys in relational databases" width="400px" align="" /></a>
@@ -56,4 +40,19 @@ and which components together form a complete database?
 
 Then read on, we will cover a...</p>
 <!-- HASHNODE_BLOG:END -->
-+++
+
+<p align=center>
+    . <br>
+    . <br>
+    .
+</p>
+<br>
+<p align=center>
+  <i>
+    d a v i d <br>
+    w o l f
+  </i>
+</p>
+<p align=center>
+  🐺
+</p>
