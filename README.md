@@ -5,7 +5,11 @@ Hey you 👋
 ## Recent articles on my [blog](https://xn--david-9u04d.to)
 
 <!-- HASHNODE_BLOG:START -->
-<table><tr><td><a href="https://devid.hashnode.dev/introduction-into-foreign-keys-in-relational-databases-ckw1dn6o004ugs1s1fspx8xl0" title="Introduction into foreign keys in relational databases"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1636894229076/SE5VpYPju.png" alt="Introduction into foreign keys in relational databases"   /></a>
+<table><tr><td><a href="https://devid.hashnode.dev/a-practical-example-of-normalization-in-relational-databases-ckw32d74b0032vqs1filf75oc" title="A practical example of normalization in relational databases"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1636907414919/SjHmqsZiR.png" alt="A practical example of normalization in relational databases"   /></a>
+<a href="https://devid.hashnode.dev/a-practical-example-of-normalization-in-relational-databases-ckw32d74b0032vqs1filf75oc" title="A practical example of normalization in relational databases"><strong>A practical example of normalization in relational databases</strong></a>
+<br/> In this article, we will cover a practical example of how to apply the  rules of database normalization  to a given database table, which is not normalized.
+Here is our example table to start with:
+KundenNrNameVornameBetriebLeitungArtikelNrArt.beschr...</td><td><a href="https://devid.hashnode.dev/introduction-into-foreign-keys-in-relational-databases-ckw1dn6o004ugs1s1fspx8xl0" title="Introduction into foreign keys in relational databases"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1636894229076/SE5VpYPju.png" alt="Introduction into foreign keys in relational databases"   /></a>
 <a href="https://devid.hashnode.dev/introduction-into-foreign-keys-in-relational-databases-ckw1dn6o004ugs1s1fspx8xl0" title="Introduction into foreign keys in relational databases"><strong>Introduction into foreign keys in relational databases</strong></a>
 <br/> Let's take your journey on database development one step further and learn about another important type of key: foreign keys.
 To get the idea behind foreign keys, let's imagine the practical usage of databases in an online shop application.
