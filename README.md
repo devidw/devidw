@@ -2,7 +2,7 @@ Hey you 👋
 
 `dev[id=w]` here
 
-## Recent articles on my blog
+## Recent articles on my [blog](https://xn--david-9u04d.to)
 
 <!-- HASHNODE_BLOG:START -->
 <table><tr><td><a href="https://devid.hashnode.dev/introduction-into-foreign-keys-in-relational-databases-ckw1dn6o004ugs1s1fspx8xl0" title="Introduction into foreign keys in relational databases"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1636894229076/SE5VpYPju.png" alt="Introduction into foreign keys in relational databases"   /></a>
