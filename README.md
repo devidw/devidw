@@ -1,10 +1,15 @@
-Hey you 👋
+<p align=center>
+    <code>
+        dev[id=w]
+    </code>
+</p>
 
-`dev[id=w]` here
-
+<!--
 ## Recent articles on my [blog](https://xn--david-9u04d.to)
+-->
 
 <!-- HASHNODE_BLOG:START -->
+<!--
 <table><tr><td><a href="https://devid.hashnode.dev/http-clear-site-data-how-to-force-cache-clearing-for-all-of-your-website-visitors-ckw9p0o630k43iks1fcal9p7k" title="HTTP "Clear-Site-Data": How to force cache clearing for all of your website visitors"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1637526527690/0F-pBS3ds.png" alt="HTTP "Clear-Site-Data": How to force cache clearing for all of your website visitors"   /></a>
 <a href="https://devid.hashnode.dev/http-clear-site-data-how-to-force-cache-clearing-for-all-of-your-website-visitors-ckw9p0o630k43iks1fcal9p7k" title="HTTP "Clear-Site-Data": How to force cache clearing for all of your website visitors"><strong>HTTP "Clear-Site-Data": How to force cache clearing for all of your website visitors</strong></a>
 <br/> Everybody knows this situation: You just rolled out that fresh new feature to your website. It is online now. Yeah. You refresh your website in the browser and … nothing changed …
@@ -27,6 +32,7 @@ In this article, we will cover a practical example of how to apply the  ...</td>
 <br/> Let's take your journey on database development one step further and learn about another important type of key: foreign keys.
 To get the idea behind foreign keys, let's imagine the practical usage of databases in an online shop application.
 In an onl...</td></tr></table>
+-->
 <!-- HASHNODE_BLOG:END -->
 
 <p align=center>
