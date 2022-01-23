@@ -1,27 +1,29 @@
-////
-<p align=center>
-    <code>
-        dev[id=w]
-    </code>
-</p>
-////
+= Hey 👋
+
+My name is David aka `dev[id='wolf']` and I am a full stack web developer.
+
+***
+
+._My Browser Extensions_
+* https://chrome.google.com/webstore/detail/pbfaompnkhilkpbobkihjfhilpikepdk[Latest Bootstrap Documentation Redirect]
+
+._My Apps_
+* https://play.google.com/store/apps/details?id=moonus.pkg[MOONUS – Kustom KLWP/KWGT Komponent]
+
+._My Fonts_
+* https://david.wolf.gdn/deutsche-korrekturzeichen-din-16511-font/[Font der Deutschen Korrekturzeichen nach DIN 16511]
+
+._My E-Books_
+* https://amazon.com/dp/B08TB423D7[HTML für zwischendurch: Geeignet für blutige Neulinge]
+
+***
 
 +++
 <p align=center>
-   <img src=signature.svg alt=Signature width=34%>
-   <br>
     . <br>
     . <br>
     . 
 </p>
-<!--
-<p align=center>
-  <i>
-    d a v i d <br>
-    w o l f
-  </i>
-</p>
--->
 <p align=center>
   🐺
 </p>
